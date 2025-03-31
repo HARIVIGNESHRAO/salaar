@@ -1,0 +1,12 @@
+{
+  "name": "flask-backend",
+  "version": "1.0.0",
+  "description": "Flask backend for Whisper-based audio analysis and translation",
+  "scripts": {
+    "start": "gunicorn --bind 0.0.0.0:$PORT app:app"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=16"
+  }
+}
