@@ -5,4 +5,7 @@ numpy
 torch
 tensorflow
 groq
-flask_cors
+flask-cors
+reportlab
+googletrans==4.0.0-rc1
+werkzeug
