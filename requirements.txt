@@ -5,3 +5,4 @@ googletrans
 werkzeug
 flask-cors
 reportlab
+ffmpeg
